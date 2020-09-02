@@ -2,6 +2,6 @@
 Spatial Time Series processing with Neural Networks
 
 ## Paper
-[Prediction of Hand Movement Speed and Force from Single-trial EEG with Convolutional Neural Networks][paper]
+[Decoding kinetic features of hand motor preparation from single‐trial EEG using convolutional neural networks][paper]
 
-[paper]:https://doi.org/10.1101/492660
+[paper]:https://doi.org/10.1111/ejn.14936

@@ -26,7 +26,8 @@ pip install -r requirements.txt
 ## Paper
 [Decoding kinetic features of hand motor preparation from single‐trial EEG using convolutional neural networks][paper]
 
->If you find this code useful, please cite the paper as: Gatti, R., Atum, Y., Schiaffino, L., Jochumsen, M., & Biurrun Manresa, J. (2020). Decoding kinetic features of hand motor preparation from single‐trial EEG using convolutional neural networks. European Journal of Neuroscience, March, ejn.14936. https://doi.org/10.1111/ejn.14936
+If you find this code useful, please cite the paper as: 
+>Gatti, R., Atum, Y., Schiaffino, L., Jochumsen, M., & Biurrun Manresa, J. (2020). Decoding kinetic features of hand motor preparation from single‐trial EEG using convolutional neural networks. European Journal of Neuroscience, March, ejn.14936. https://doi.org/10.1111/ejn.14936
 
 [fork]: https://github.com/ragatti/moabb
 [paper]:https://doi.org/10.1111/ejn.14936

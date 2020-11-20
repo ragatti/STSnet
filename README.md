@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//ragatti/STSnet/blob/master/evaluate.ipynb)
+
 # STSnet
 Spatial Time Series processing with Neural Networks
 
